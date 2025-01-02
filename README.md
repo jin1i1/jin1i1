@@ -12,8 +12,8 @@
 <h3 align="left">📫 Contact </h3>
 
 ![jin1i1's github stats](https://github-readme-stats.vercel.app/api?username=jin1i1&show_icons=true&theme=dark)
-
 [![jin1i1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jin1i1&show_icons=true&theme=dark&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jin1i1)
+
 
 <!--
 **jin1i1/jin1i1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
