@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="4b0f92d2-047e-4850-a529-d738c009ce90.png" />
+</div>
 <!--
 **jin1i1/jin1i1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
