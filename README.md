@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Hyejin</h1>
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=I'm%Hyejin!&animation=blink)
+
 <h3 align="center">I am a university student majoring in Computer Science, aspiring to become a developer.</h3>
 
 📫 **jin06811@gmail.com**
