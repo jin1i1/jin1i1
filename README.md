@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hyejin</h1>
 <h3 align="center">I am a university student majoring in Computer Science, aspiring to become a developer.</h3>
 
-- 🌱 I’m currently learning **JAVA, SQL**
-
-- 📫 How to reach me **jin06811@gmail.com**
+📫 **jin06811@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
